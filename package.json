@@ -1,0 +1,23 @@
+{
+  "name": "node-hash-a-string",
+  "version": "1.0.0",
+  "description": "Library for hashing a string - node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusaini/node-hash-a-string.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anusaini/node-hash-a-string/issues"
+  },
+  "homepage": "https://github.com/anusaini/node-hash-a-string#readme",
+  "dependencies": {
+    "node-get-ascii": "^1.0.0"
+  }
+}
